@@ -1,7 +1,7 @@
 # Simple-python
 As the name suggests, this repository will contain simple python codes which may help the Computer Science and Data science - UG students
 following the syllabus of University of Madras.
-These programs were collected from various sources/written by me during my service as an assistant professor is one of the affliated colleges under 
+These programs were collected from various sources/written by me during my service as an assistant professor in one of the affliated colleges under 
 The University of Madras.
 
 If any mistakes found, kindly comment. I'm always in learning mode.
