@@ -10,8 +10,8 @@ If you get any doubts in the code too, you're welcome in comments section.
 Thank you,
 Hope it helps.
 
-
 B.Sc computer science with Data Science LAB Syllabus
+
 ![image](https://user-images.githubusercontent.com/90140795/189164178-05c70b9c-5bc2-44bf-a0b1-e2bc2fa2df59.png)
 
 B.Sc computer Science Lab Syllabus
