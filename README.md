@@ -9,7 +9,8 @@ If any mistakes found, kindly comment. I'm always in learning mode.
 If you get any doubts in the code too, you're welcome in comments section.
 
 Program files with _DS_ in their names belong to B.Sc Data Science with Computer science curriculum
-and the ones with _CS_ belong B.Sc computer science curriculum
+and the ones with _CS_ belong B.Sc computer science curriculum.
+The file names suffixed with _op_ are outputs of their prefixed number (and branch) 
 
 Thank you,
 Hope it helps many.
