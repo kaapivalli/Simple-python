@@ -7,8 +7,11 @@ The University of Madras.
 If any mistakes found, kindly comment. I'm always in learning mode.
 If you get any doubts in the code too, you're welcome in comments section.
 
+Program files with _DS_ in their names belong to B.Sc Data Science with Computer science curriculum
+and the ones with _CS_ belong B.Sc computer science curriculum
+
 Thank you,
-Hope it helps.
+Hope it helps many.
 
 B.Sc computer science with Data Science LAB Syllabus
 
