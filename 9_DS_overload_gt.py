@@ -13,5 +13,3 @@ personA = Age(A_age)
 personB = Age(B_age)
 
 print("Is Person_A's age >= Person_B's age? ", personA >= personB)
-
-
