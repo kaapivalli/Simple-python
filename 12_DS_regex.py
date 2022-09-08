@@ -39,5 +39,3 @@ for i in string:
 
     else:
         print(i," is an invalid python identifier")
-
-
