@@ -6,10 +6,10 @@ The University of Madras.
 The programs for which i found the sources being less or none are given more priority and thus have been uploaded in this repo.
 
 If any mistakes found, kindly comment. I'm always in learning mode.
-If you get any doubts in the code too, you're welcome in comments section.
+If in case of doubts in the code also you're welcome in comments section.
 
 Program files with _DS_ in their names belong to B.Sc Data Science with Computer science curriculum
-and the ones with _CS_ belong B.Sc computer science curriculum.
+and the ones with _CS_ belong to B.Sc Computer science curriculum.
 The file names suffixed with _op_ are outputs of their prefixed number (and branch) 
 
 Thank you,
