@@ -25,4 +25,3 @@ print(f'''Total Bus fare of the bus: {name},
 with mileage {mileage} L/Km,
 and capacity of {capacity} Litres = Rs.''',
 bus_A.fare())
-
