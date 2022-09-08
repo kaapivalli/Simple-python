@@ -3,6 +3,7 @@ As the name suggests, this repository will contain simple python codes which may
 following the syllabus of University of Madras.
 These programs were collected from various sources/written by me during my service as an assistant professor in one of the affliated colleges under 
 The University of Madras.
+The programs for which i found the sources being less or none are given more priority and thus have been uploaded in this repo.
 
 If any mistakes found, kindly comment. I'm always in learning mode.
 If you get any doubts in the code too, you're welcome in comments section.
